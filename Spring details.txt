@@ -1,0 +1,8 @@
+Spring details
+
+spring is use to manage the object
+
+1)first create a java project and then convert to maven project 
+2)then add dependency to pom.xml
+that is add springcore maven dependency and springcontext dependency
+3)and create a standard pakage
